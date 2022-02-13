@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shormiee
 - 👀 I’m interested in ...web development, php, javascript, flutter, api, firebase, aws. 
-- 🌱 I’m currently learning ... flutter and api 
+- 🌱 I’m currently learning ... flutter and firebase
 - 💞️ I’m looking to collaborate on ... web app development projects 
 - 📫 How to reach me ... email me at shormisafiya@gmail.com
 
